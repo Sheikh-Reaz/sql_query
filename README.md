@@ -84,4 +84,4 @@ Includes solutions for:
 
 ## 👨‍💻 Developed By
 
-**Eftajul Islam Shadi**
+**Sheikh Reaz Uddin**
